@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uniRide</string>
+    <string name="take_ride">Take Ride</string>
+    <string name="offer_ride">Offer Ride</string>
+    <string name="profile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_available_rides">AvailableRidesActivity</string>
+</resources>

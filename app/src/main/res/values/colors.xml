@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#BBC9C7</color>
+    <color name="primary_color">#2196F3</color>
+    <color name="background_dark">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="accent_color">#BB86FC</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_hint">#80FFFFFF</color>
+    <color name='purple_500'></color>
+    <color name="rating_color">#FFC107</color>
+    <color name="divider_color">#1FFFFFFF</color>
+    <color name="status_completed">#4CAF50</color>
+    <color name="status_cancelled">#F44336</color>
+    <color name="status_ongoing">#2196F3</color>
+    <color name="status_pending">#FFC107</color>
+    <color name="toolbar_dark">#1E1E1E</color>
+    <color name="card_dark">#242424</color>
+    <color name="card_stroke">#323232</color>
+    <color name="text_primary_light">#FFFFFF</color>
+    <color name="text_secondary_light">#B3FFFFFF</color>
+    <color name="text_tertiary">#B0B0B0</color>
+    <color name="accent_purple">#BB86FC</color>
+    <color name="rating_star">#FFC107</color>
+    <color name="background_darker">#141718</color>
+    <color name="line_color">#4D4D4D</color>
+    <color name="darkBackground">#121212</color>
+    <color name="darkCardBackground">#242424</color>
+    <color name="accentColor">#BB86FC</color>
+    <color name="textHintColor">#80FFFFFF</color>
+</resources>
